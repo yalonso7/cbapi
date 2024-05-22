@@ -1,4 +1,4 @@
-requests>=2.3
+requests>=2.32.0
 simplejson>=3.5
 pika>=0.9
 protobuf>=2.5
